@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/series8.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="23" />
+              <selected id="24" />
             </state>
           </provider>
         </entry>
@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="811" />
     <option name="height" value="788" />
@@ -156,16 +156,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="28169000" />
+      <workItem from="1546371147650" duration="28715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28169000" />
+    <option name="totallyTimeSpent" value="28715000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="811" height="788" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24900132" />
@@ -174,7 +173,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49800265" weight="0.3344652" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49800265" visible="true" weight="0.33444816" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50199735" side_tool="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -279,7 +278,7 @@
     <entry file="file://$PROJECT_DIR$/series8.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="23" />
+          <selected id="24" />
         </state>
       </provider>
     </entry>
