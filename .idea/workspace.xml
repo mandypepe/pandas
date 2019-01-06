@@ -2,29 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cc3924-7434-41fa-99bb-cbf9454fafe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DFII.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII7.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFII8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII10.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII12.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII13.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII14.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII6.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII7.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFIII9.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DF.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DF10.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DF5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DF9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DF9.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series4_inplace_parameter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series4_inplace_parameter.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series7.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/series8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/series8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFII7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFII7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFII8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFII8.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +32,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFII7.ipynb">
+        <entry file="file://$PROJECT_DIR$/DFIII13.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -47,10 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DFII8.ipynb">
+        <entry file="file://$PROJECT_DIR$/DFIII14.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="13" />
+              <selected id="1" />
             </state>
           </provider>
         </entry>
@@ -106,6 +100,20 @@
         <option value="$PROJECT_DIR$/DFII6.ipynb" />
         <option value="$PROJECT_DIR$/DFII7.ipynb" />
         <option value="$PROJECT_DIR$/DFII8.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII1.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII3.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII2.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII4.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII5.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII6.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII7.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII8.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII9.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII10.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII11.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII12.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII13.ipynb" />
+        <option value="$PROJECT_DIR$/DFIII14.ipynb" />
       </list>
     </option>
   </component>
@@ -198,15 +206,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="58442000" />
+      <workItem from="1546371147650" duration="70931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58442000" />
+    <option name="totallyTimeSpent" value="70931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="811" height="762" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -482,7 +490,105 @@
     <entry file="file://$PROJECT_DIR$/DFII8.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="13" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII6.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII9.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII10.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII8.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII7.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII12.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII11.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII13.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII14.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
