@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cc3924-7434-41fa-99bb-cbf9454fafe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DFIII1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII10.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII12.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII13.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII14.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII15.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII7.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII8.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFIII9.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFII7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFII7.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFII8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFII8.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="71599000" />
+      <workItem from="1546371147650" duration="71849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71599000" />
+    <option name="totallyTimeSpent" value="71849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="811" height="762" extended-state="0" />
