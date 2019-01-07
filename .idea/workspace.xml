@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cc3924-7434-41fa-99bb-cbf9454fafe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/textos.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textos2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textos3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textos4.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textos5.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +19,17 @@
     <SUITE FILE_PATH="coverage/pandas$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1546374325169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textos5.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,13 +95,18 @@
         <option value="$PROJECT_DIR$/DFIII13.ipynb" />
         <option value="$PROJECT_DIR$/DFIII14.ipynb" />
         <option value="$PROJECT_DIR$/DFIII15.ipynb" />
+        <option value="$PROJECT_DIR$/textos.ipynb" />
+        <option value="$PROJECT_DIR$/textos2.ipynb" />
+        <option value="$PROJECT_DIR$/textos4.ipynb" />
+        <option value="$PROJECT_DIR$/textos3.ipynb" />
+        <option value="$PROJECT_DIR$/textos5.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="width" value="811" />
-    <option name="height" value="762" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,24 +192,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="71849000" />
+      <workItem from="1546371147650" duration="78092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71849000" />
+    <option name="totallyTimeSpent" value="78092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="811" height="762" extended-state="0" />
+    <frame x="-10" y="0" width="811" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.436751" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.43494704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49800265" visible="true" weight="0.31848186" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49800265" weight="0.31848186" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50199735" side_tool="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -211,37 +232,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/io/parsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="685" selection-start-line="685" selection-end-line="685" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ini.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="8855" column="12" selection-start-line="8855" selection-start-column="12" selection-end-line="8855" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/777321272/pandas/_libs/internals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas_datareader/iex/deep.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -522,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII7.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DFIII12.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -561,6 +544,48 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII7.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textos.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textos2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textos3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textos4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textos5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
         </state>
       </provider>
     </entry>
