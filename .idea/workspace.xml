@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cc3924-7434-41fa-99bb-cbf9454fafe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/miltiindex4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex10.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex7.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex8.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiindex9.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupby.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupby2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupby3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groupby4.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFIII15.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFIII15.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFIII10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFIII10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFIII9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DFIII9.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textos2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/textos2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +37,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiindex9.ipynb">
+        <entry file="file://$PROJECT_DIR$/groupby.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -51,7 +46,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multiindex10.ipynb">
+        <entry file="file://$PROJECT_DIR$/groupby2.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
@@ -59,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/multiindex11.ipynb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/groupby3.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/groupby4.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -88,10 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DF.ipynb" />
-        <option value="$PROJECT_DIR$/DF1.ipynb" />
-        <option value="$PROJECT_DIR$/DF2.ipynb" />
-        <option value="$PROJECT_DIR$/DF3.ipynb" />
         <option value="$PROJECT_DIR$/DF4.ipynb" />
         <option value="$PROJECT_DIR$/DF5.ipynb" />
         <option value="$PROJECT_DIR$/DF6.ipynb" />
@@ -139,6 +139,10 @@
         <option value="$PROJECT_DIR$/multiindex9.ipynb" />
         <option value="$PROJECT_DIR$/multiindex10.ipynb" />
         <option value="$PROJECT_DIR$/multiindex11.ipynb" />
+        <option value="$PROJECT_DIR$/groupby.ipynb" />
+        <option value="$PROJECT_DIR$/groupby2.ipynb" />
+        <option value="$PROJECT_DIR$/groupby3.ipynb" />
+        <option value="$PROJECT_DIR$/groupby4.ipynb" />
       </list>
     </option>
   </component>
@@ -231,19 +235,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="94352000" />
+      <workItem from="1546371147650" duration="102137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94352000" />
+    <option name="totallyTimeSpent" value="102137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="811" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.43408787" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39147803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -271,34 +275,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DF.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFII4.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFII3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFII2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DFII1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -432,20 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII9.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII10.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DFIII5.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -516,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/textos2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/textos3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -541,13 +496,6 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII15.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -607,6 +555,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/multiindex11.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiindex10.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multiindex9.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -614,17 +576,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiindex10.ipynb">
+    <entry file="file://$PROJECT_DIR$/DFIII15.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multiindex11.ipynb">
+    <entry file="file://$PROJECT_DIR$/textos2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII9.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFIII10.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupby.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupby2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupby3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupby4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="5" />
         </state>
       </provider>
     </entry>
