@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7cc3924-7434-41fa-99bb-cbf9454fafe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/date-date_range.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date-dtACCESSOR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date-pd-datareader.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date-time.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date-timestamp-obj.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date-todatetime.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datetimeindex.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timestamp.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +36,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DATE-TIMEDELTA.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,17 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DFII2.ipynb" />
-        <option value="$PROJECT_DIR$/DFII3.ipynb" />
-        <option value="$PROJECT_DIR$/DFII4.ipynb" />
-        <option value="$PROJECT_DIR$/DFII5.ipynb" />
-        <option value="$PROJECT_DIR$/DFII6.ipynb" />
-        <option value="$PROJECT_DIR$/DFII7.ipynb" />
-        <option value="$PROJECT_DIR$/DFII8.ipynb" />
-        <option value="$PROJECT_DIR$/DFIII1.ipynb" />
-        <option value="$PROJECT_DIR$/DFIII3.ipynb" />
-        <option value="$PROJECT_DIR$/DFIII2.ipynb" />
-        <option value="$PROJECT_DIR$/DFIII4.ipynb" />
         <option value="$PROJECT_DIR$/DFIII5.ipynb" />
         <option value="$PROJECT_DIR$/DFIII6.ipynb" />
         <option value="$PROJECT_DIR$/DFIII7.ipynb" />
@@ -99,6 +106,17 @@
         <option value="$PROJECT_DIR$/merge-left_on-rigth_on.ipynb" />
         <option value="$PROJECT_DIR$/merge-index-join.ipynb" />
         <option value="$PROJECT_DIR$/join.ipynb" />
+        <option value="$PROJECT_DIR$/date-time.ipynb" />
+        <option value="$PROJECT_DIR$/timestamp.ipynb" />
+        <option value="$PROJECT_DIR$/datetimeindex.ipynb" />
+        <option value="$PROJECT_DIR$/date-todatetime.ipynb" />
+        <option value="$PROJECT_DIR$/date-date_range.ipynb" />
+        <option value="$PROJECT_DIR$/date-dtACCESSOR.ipynb" />
+        <option value="$PROJECT_DIR$/date-pd-datareader.ipynb" />
+        <option value="$PROJECT_DIR$/date-timestamp-obj.ipynb" />
+        <option value="$PROJECT_DIR$/date-truncate.ipynb" />
+        <option value="$PROJECT_DIR$/date-dateoffset.ipynb" />
+        <option value="$PROJECT_DIR$/DATE-TIMEDELTA.ipynb" />
       </list>
     </option>
   </component>
@@ -196,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546371143682</updated>
-      <workItem from="1546371147650" duration="115860000" />
+      <workItem from="1546371147650" duration="134507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115860000" />
+    <option name="totallyTimeSpent" value="134507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -214,6 +232,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="811" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.31557924" />
@@ -222,7 +241,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3293718" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49800265" visible="true" weight="0.31748727" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49800265" weight="0.31748727" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50199735" side_tool="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -244,104 +263,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/series5.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/series6.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/series8.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/series7.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFII7.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFII8.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII6.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII5.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII3.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII4.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII8.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DFIII12.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DFIII11.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -496,13 +417,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/groupby4.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/groupby3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -598,6 +512,111 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datetimeindex.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timestamp.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-time.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-date_range.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/core/indexes/accessors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="290" column="6" selection-start-line="290" selection-start-column="6" selection-end-line="290" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/core/accessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1550">
+          <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensor/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3182">
+          <caret line="3967" column="16" selection-start-line="3967" selection-start-column="16" selection-end-line="3967" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-dtACCESSOR.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-todatetime.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-pd-datareader.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-timestamp-obj.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-truncate.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date-dateoffset.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groupby4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATE-TIMEDELTA.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="23" />
         </state>
       </provider>
     </entry>
